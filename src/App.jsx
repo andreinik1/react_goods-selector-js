@@ -56,7 +56,7 @@ export const App = () => {
                   <button
                     data-cy="RemoveButton"
                     type="button"
-                    className="button has-background-success-light is-info"
+                    className="button is-info"
                     onClick={() => handleClick(good)}
                   >
                     -
